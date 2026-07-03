@@ -23,12 +23,12 @@
 <h2 align="center">🏅 LeetCode Badges</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/bedu9111/" target="_blank">
-    <img src="./badges1.png" alt="50 Days Badge" width="200"/>
+  <a href="https://leetcode.com/u/bedu9111/">
+    <img src="badges1.png" width="170"/>
   </a>
 
-  <a href="https://leetcode.com/u/bedu9111/" target="_blank">
-    <img src="./badges2.png" alt="50 Days Badge Active" width="200"/>
+  <a href="https://leetcode.com/u/bedu9111/">
+    <img src="badges2.png" width="170"/>
   </a>
 </p>
 
