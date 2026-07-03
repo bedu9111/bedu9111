@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Bedanand Kumar Sah
 
-<!--
-**bedu9111/bedu9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student at SRM AP University
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Data Structures & Algorithms
+- MERN Stack
+- System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Looking for Software Engineering Internship
+
+## 🛠️ Tech Stack
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+## 📫 Connect with me
+
+LinkedIn:
+https://linkedin.com/in/your-linkedin
+
+Email:
+your@email.com
