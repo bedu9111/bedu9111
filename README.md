@@ -12,13 +12,8 @@
 ## 🛠️ Tech Stack
 
 - C++
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
+- MERN STACK  
+- PYTHON
 
 <h2 align="center">🏅 LeetCode Badges</h2>
 
@@ -37,7 +32,7 @@
 ## 📫 Connect with me
 
 LinkedIn:
-https://linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/bedanand-sah-43812a365/
 
 Email:
-your@email.com
+bedu9111@gmail.com
